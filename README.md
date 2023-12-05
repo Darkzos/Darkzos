@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Hebert Aranda Gutierrez AKA(@Darkzos), I'm an Industrial and Logistic Engineer from Mexico and self-taught programmer.
-- 👀 I’m interested in Data Analysis, I'm still learning, I started in September of 2022, I want to change of carreer and focus on coding,
-      I would really like to work in projects related to my field of study but I'm open to any project that i can work.
-- 🌱 I’m currently learning Python as a beginner and want to focus on Data Analytics.
+- 👋 Hi, I’m Hebert Aranda Gutierrez AKA(@Darkzos), I'm an Industrial and Logistic Engineer from Mexico and self-taught programmer currently enrolled in Computer and Systems Engineering.
+- 👀 I’m interested in Web Development and Data Analysis
+- 🌱 I’m currently learning Python, JS, TS and their frameworks to work in Web development with focus on backend
 - 💞️ I’m looking to collaborate on projects that challenge me to improve my habilities and teach me new things
 - 📫 How to reach me via email on hebe_76@hotmail.com 
 
